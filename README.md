@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [Php]
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning cloud  and cyber security  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to cloud and related technologies  
   
 
 - ⚡ Fun fact: I like to keep my night shift activated 24 x 7
@@ -93,12 +93,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Perweenbushra76&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=
+Perweenbushra76&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Perweenbushra76&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=
+Perweenbushra76&&style=flat-square" align="center" />
 </div>  
 
 <br />
